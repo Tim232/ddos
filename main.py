@@ -49,3 +49,5 @@ def main():
 
 async def main():
     await ddos(Value("L", 0))
+
+main()
