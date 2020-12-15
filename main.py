@@ -1,5 +1,5 @@
 import requests
-improt requests_async as requestsa
+import requests_async as requestsa
 from multiprocessing import Pool, Value
 
 
